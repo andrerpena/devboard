@@ -6,7 +6,7 @@ require.config({
     }
 });
 
-require(["hn", "jquery", "react"], function(hn, $, React) {
+require(["lib/hn", "jquery", "react"], function(hn, $, React) {
     hn.getFeedItems().done(function(items) {
 
     });

@@ -4,6 +4,7 @@ Thumbs.db
 #Ignore files build by Visual Studio
 .idea/
 .module-cache/
+.node_module/
 *.obj
 *.exe
 *.pdb
